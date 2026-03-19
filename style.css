@@ -42,7 +42,7 @@ body {
 
 .navbar ul li {
     list-style: none;
-    padding: 12px;
+    padding: 24px;
     font-size: 0.5rem;
     font-weight: bold;
 }
@@ -172,7 +172,7 @@ h1 .text-gradient {
 }
 
 .home-container .hero-content p {
-    font-size: 10px;
+    font-size: 15px;
     margin-top: 20px;
     color: lightgray;
     animation: fadeInUp 0.8s ease-out forwards;
@@ -241,7 +241,7 @@ h1 .text-gradient {
     display: inline-block;
     width: 100px;
     text-align: center;
-    font-size: 0.3rem;
+    font-size: 0.75rem;
     padding: 5px;
     border: 1px solid #806ac9b3;
     border-radius: 20px;
@@ -553,6 +553,7 @@ h1 .text-gradient {
     margin: 1rem;
     text-align: center;
     transition: all 0.4s ease-in;
+    font-size: 15px;
 }
 
 .divider-boxes .box:hover {
