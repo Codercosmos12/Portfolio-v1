@@ -42,8 +42,8 @@ body {
 
 .navbar ul li {
     list-style: none;
-    padding: 24px;
-    font-size: 0.5rem;
+    padding: 12px;
+    font-size: 0.95rem;
     font-weight: bold;
 }
 
