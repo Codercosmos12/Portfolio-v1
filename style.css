@@ -671,9 +671,7 @@ h1 .text-gradient {
     border: 2px solid #0a66c2;
 }
 
-.footer-container .footer-content .social-links .Instagram{
-    transition: background 0.3s ease;
-}
+
 .footer-container .footer-content .social-links .Instagram:hover {
     background: linear-gradient(45deg,
             #f09433,
@@ -681,6 +679,7 @@ h1 .text-gradient {
             #dc2743,
             #cc2366,
             #bc1888);
+    border: 1px solid red;
 }
 
 .footer {
